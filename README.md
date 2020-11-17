@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-#### I am Akshaj, an incoming student at the Masters in Artificial Intelligence and Innovation program at Carnegie Mellon University. I love working on all things social science + AI
