@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Broadly interested in enjoying life and working on stuff that doesn't really feel like work :) 
+- Interested in enjoying life and working on stuff that doesn't really feel like work :) 
 - Currently training SAEs and doing some safety research in LLMs
 - Previously trained voice in, voice out architectures into LLMs, explored diffusion models for robotics
 - Non-GenAI stuff - built sentiment analysis models for chatbots for enterprises, fraud detection models for banks, built B2C apps that got to thousands of users
